@@ -1,0 +1,23 @@
+{
+  "name": "kiranstephen65-quote",
+  "version": "1.0.0",
+  "description": "description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiranstephen65/kiranstephen65-quote"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranstephen65/kiranstephen65-quote/issues"
+  },
+  "homepage": "https://github.com/kiranstephen65/kiranstephen65-quote#readme"
+}
